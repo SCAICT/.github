@@ -19,14 +19,15 @@
 <br clear="both"/>
 <hr>
 
-## 第三屆幹部
+## 第四屆幹部
 
-* 會長 - [Chao](https://github.com/Charlie28661)
-* 副會長 - [lzspriv](https://github.com/lzspriv)
-* 資訊組組長 - [毛哥EM](https://github.com/Edit-Mr)
-* 公關組組長 - 黃粲閎
-* 活動組組長長 - 楊哲翔
-* 總務組組長 - 孫驊辰
+* 會長 - 林余安
+* 副會長 - 紀翔文
+* 副會長 - 侯柏安
+* 資訊組組長 - [鯊魚Y.Y](https://github.com/Larryeng)
+* 公關組組長 - na.
+* 活動組組長長 - 陳詩函
+* 總務組組長 - 謝依玲
 
 ## 你也許會想逛逛
 

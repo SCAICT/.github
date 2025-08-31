@@ -19,15 +19,11 @@
 <br clear="both"/>
 <hr>
 
-## 第四屆幹部
+## 第五屆幹部
 
-* 會長 - 林余安
-* 副會長 - 紀翔文
-* 副會長 - 侯柏安
-* 資訊組組長 - [鯊魚Y.Y](https://github.com/Larryeng)
-* 公關組組長 - na.
-* 活動組組長長 - 陳詩函
-* 總務組組長 - 謝依玲
+* 會長 - 胡永璋
+* 副會長 - [伊藤蒼太](https://github.com/itousouta15)
+* 資訊組組長 - [伊藤蒼太](https://github.com/itousouta15)
 
 ## 你也許會想逛逛
 

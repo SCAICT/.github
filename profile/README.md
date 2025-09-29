@@ -21,9 +21,8 @@
 
 ## 第五屆幹部
 
-* 會長 - 胡永璋
-* 副會長 - [伊藤蒼太](https://github.com/itousouta15)
-* 資訊組組長 - [伊藤蒼太](https://github.com/itousouta15)
+* 會長 - [伊藤蒼太](https://github.com/itousouta15)
+* 副會長 - 胡永璋
 
 ## 你也許會想逛逛
 

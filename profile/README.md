@@ -23,6 +23,8 @@
 
 * 會長 - [伊藤蒼太](https://github.com/itousouta15)
 * 副會長 - 胡永璋
+* 資訊組長 - [伊藤蒼太](https://github.com/itousouta15)
+* 行政組長 - 陳宥誠
 
 ## 你也許會想逛逛
 

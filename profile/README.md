@@ -29,4 +29,4 @@
 ## 你也許會想逛逛
 
 * [官方網站](https://scaict.org)
-* [官方文檔](https://g.scaict.org/doc)
+* [官方文檔](https://scaict.org/doc)

@@ -22,8 +22,8 @@
 ## 第五屆幹部
 
 * 會長 - [伊藤蒼太](https://github.com/itousouta15)
-* 資訊組長 - [伊藤蒼太](https://github.com/itousouta15)
-* 行政組長 - 陳宥誠
+* 副會長 - 空白
+* 資訊組長 - [Kaiyasi](https://github.com/kaiyasi)
 
 ## 你也許會想逛逛
 

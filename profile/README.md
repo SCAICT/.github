@@ -27,4 +27,4 @@
 ## 你也許會想逛逛
 
 * [官方網站](https://scaict.org)
-* [官方說明文件](https://scaict.org/doc)
+* [官方說明文件](https://scaict.org/docs)
